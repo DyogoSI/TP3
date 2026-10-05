@@ -2,3 +2,9 @@ __pycache__/
 *.pyc
 apresentacao_tp3.pptx
 ~$*
+slides_tp3.pptx
+roteiro_apresentacao.docx
+material_de_apoio_tp3.docx
+montar_slides.py
+gerar_roteiro_docx.py
+gerar_material_apoio.py

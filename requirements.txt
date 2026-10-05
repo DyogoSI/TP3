@@ -2,5 +2,3 @@ highspy
 numpy
 matplotlib
 reportlab
-python-pptx
-python-docx
